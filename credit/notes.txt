@@ -1,0 +1,10 @@
+Length
+AMEX = 15
+Master card = 16
+Visa = 13/16
+
+Onset
+AMEX = {34,37}
+Mastercard = {51...55}
+Visa = 4
+
